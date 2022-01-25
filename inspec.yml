@@ -5,5 +5,5 @@ copyright: The Authors
 copyright_email: you@example.com
 license: Apache-2.0
 summary: "Inspec Validation Profile for NGINX SRG"
-version: 2.3.1
+version: 3.3.1
 inspec_version: ">= 4.0"

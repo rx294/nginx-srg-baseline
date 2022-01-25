@@ -1,6 +1,6 @@
 # encoding: UTF-8
 
-control "V-40791-test" do
+control "V-40791" do
   title "The NGINX web server must limit the number of allowed simultaneous session
   requests."
   desc  "Web server management includes the ability to control the number of
